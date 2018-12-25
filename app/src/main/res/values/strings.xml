@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="signUpButton">SignUp</string>
+    <string name="showListButton">Show List</string>
+    <string name="edit_name">Enter your Name</string>
+    <string name="email_edit">Enter your email</string>
+    <string name="address_edit">Enter your address</string>
+    <string name="edit_phoneNumber">Enter your Phone#</string>
+    <string name="edit_DOB">Enter DOB</string>
+    <string-array name="planets_array">
+        <item>Pakistan</item>
+        <item>India</item>
+        <item>Bangladesh</item>
+        <item>Afganistan</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>China</item>
+        <item>Japan</item>
+    </string-array>
+    <string name="male_radio">Male</string>
+    <string name="female_radio">Female</string>
+</resources>
